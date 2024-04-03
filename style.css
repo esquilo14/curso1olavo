@@ -90,8 +90,6 @@ body {
   text-transform: uppercase;
 }
 
-
-
 @media screen (min-width: 768px;) {
   .botoes {
    display: flex;
